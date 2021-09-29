@@ -19,7 +19,7 @@ def compare(u1,u2):
         if u2 == 'rock':
             return ("paper wins")
         else:
-            return ("paper wins")
+            return ("scissor wins")
     else:
         return("invalid input")
         sys.exit()
